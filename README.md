@@ -22,8 +22,11 @@ Open ``` ExperimentTreeViewV2.sln``` from the root folder using Visual Studio 20
 > Then click Play or press F5
 
 ### Screenshots
+> Role
 ![Completions](CompletionScreenshot/RoleManagement.png)
+> Employee
 ![Completions](CompletionScreenshot/EmployeeManagement1.png)
 ![Completions](CompletionScreenshot/EmployeeManagement2.png)
 ![Completions](CompletionScreenshot/EmployeeManagement3.png)
+> Project
 ![Completions](CompletionScreenshot/ProjectManagement.png)
